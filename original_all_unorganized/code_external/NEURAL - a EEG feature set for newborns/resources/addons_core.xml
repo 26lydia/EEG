@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addonCore>
+  <label>NEURAL - a EEG feature set for newborns</label>
+  <version>0.4.4</version>
+  <type>zip</type>
+  <identifier>11aa50e7-7e21-48b8-98e7-8c33491e2f1f</identifier>
+  <createdBy name="John M. O'Toole"/>
+  <image>resources/screenshot.png</image>
+</addonCore>

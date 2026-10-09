@@ -1,0 +1,1 @@
+deletedCols = datacheck("E:\test_results\test_model\merged_output.xlsx","E:\test_results\test_model\modified_output.xlsx");

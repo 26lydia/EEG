@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<paths>
+  <path>.</path>
+  <path>amplitude_features</path>
+  <path>connectivity_features</path>
+  <path>demos</path>
+  <path>IBI_features</path>
+  <path>preprocessing</path>
+  <path>range_EEG</path>
+  <path>spectral_features</path>
+  <path>utils</path>
+</paths>

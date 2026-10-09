@@ -1,0 +1,76 @@
+========== .mat 文件统计信息 ==========
+
+处理时间：09-Mar-2026 12:45:04
+输出文件夹：E:\info
+
+共输入了 7 个文件夹，其中 7 个有效文件夹包含 .mat 文件：
+
+【处理的文件夹列表】
+1. healthy：37 个 .mat 文件
+   路径：E:\Data_results\features\Original\eegdata_infant_1\healthy
+2. repete：2 个 .mat 文件
+   路径：E:\Data_results\features\Original\eegdata_infant_1\repete
+3. unhealthy：126 个 .mat 文件
+   路径：E:\Data_results\features\Original\eegdata_infant_1\unhealthy
+4. eegdata_infant_2_cut：13 个 .mat 文件
+   路径：E:\Data_results\features\Original\eegdata_infant_2_cut
+5. extral：5 个 .mat 文件
+   路径：E:\Data_results\features\Original\extral
+6. spring_new_cut：19 个 .mat 文件
+   路径：E:\Data_results\features\Original\spring_new_cut
+7. 3：19 个 .mat 文件
+   路径：E:\KMC_eeg_linchuang\3.4
+
+【跳过的文件夹（无 .mat 文件）】
+   没有文件夹被跳过
+
+【不存在的文件夹（已从输入中移除）】
+   所有输入的文件夹都存在
+
+【重复文件统计】
+   发现 11 个重复的文件名（带 * 标记）：
+
+1. "chenxiaoyunzhizi.mat" 出现在以下文件夹：
+   - unhealthy
+   - eegdata_infant_2_cut
+
+2. "guoyutianzhizi.mat" 出现在以下文件夹：
+   - repete
+   - eegdata_infant_2_cut
+
+3. "jiazengyanzhinv.mat" 出现在以下文件夹：
+   - healthy
+   - eegdata_infant_2_cut
+
+4. "lishiyingzhizi.mat" 出现在以下文件夹：
+   - healthy
+   - eegdata_infant_2_cut
+
+5. "wangdanzhinv2.mat" 出现在以下文件夹：
+   - unhealthy
+   - extral
+
+6. "wuxiaoyuzhixiaonv.mat" 出现在以下文件夹：
+   - unhealthy
+   - extral
+
+7. "yangzhouzhou.mat" 出现在以下文件夹：
+   - repete
+   - eegdata_infant_2_cut
+
+8. "zhangshiruizhizi.mat" 出现在以下文件夹：
+   - healthy
+   - extral
+
+9. "zhangyuanzhixiaonv.mat" 出现在以下文件夹：
+   - unhealthy
+   - extral
+
+10. "zhangzushan.mat" 出现在以下文件夹：
+   - healthy
+   - extral
+
+11. "zhoushuozhinv.mat" 出现在以下文件夹：
+   - healthy
+   - eegdata_infant_2_cut
+
